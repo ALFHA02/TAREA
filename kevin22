@@ -1,12 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=devise-width, initial-scale=1.0">
     <title>Document</title>
 </head>
-<body>
-    Hola soy KEVIN PLUAS:
-    <img src="KEVIN.jpg">
+<boby>
+    <h1> <P align="center">HOLA SOY KEVIN PLUAS:
+    <h1> <P align="center"</H1><img src="FOTOS/KEVIN.jpg" style="width: 200px">
 </body>
 </html>

@@ -5,9 +5,21 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=devise-width, initial-scale=1.0">
     <title>Document</title>
+    <style>
+        body{
+            background-color:rgba(42, 249, 6, 0.685);
+        }
+    </style>
 </head>
 <boby>
-    <h1> <P align="center">HOLA SOY KEVIN PLUAS:
-    <h1> <P align="center"</H1><img src="FOTOS/KEVIN.jpg" style="width: 200px">
+    <h1 
+    align="center">Hola Soy Kevin Antonio Pluas Anzules </h1> 
+    <h2> <P align="center"><FONT COLOR="GREEN">Tengo 20 años, soy de la ciudad de Guayaquil, estudio la carrera de Ingenieria en Sistemas en Informacion. 
+    <h3> <P align="center"</H1><img src="FOTOS/KEVIN.jpg" style="width: 200px">
+    <P align="left">Enlace de mi cuenta:<a href="https://www.facebook.com/anthonybyron.anzulespilco.5/">
+        <img src="FOTOS/facebook-logo-icone.png" style="width: 50px" ></a>
+    <a href="https://www.instagram.com/kevinantoniopluasanzules/">
+        <img src="FOTOS/instagram.png" style="width: 50px" ></a>
+
 </body>
 </html>
